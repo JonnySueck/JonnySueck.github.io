@@ -4,7 +4,7 @@ title:  "Welcome To My Blog!"
 date:   2026-10-31 15:49:55 -0400
 categories: Development Blog
 ---
-Hello!
+![Welcome Sign](https://gifdb.com/images/high/welcome-greeting-1y2timm763pcwtl2.gif)
 <br>
 Welcome to my first entry of my development blog. This blog aims to be a personal insite to my working habits and characteristics for my instructors and future employers.
 
