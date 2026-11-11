@@ -21,21 +21,24 @@ What even is User Experience? GeekForGeeks says “User Experience is the practi
 {:style="text-align:center;"}
 ![Proper vs Improper Error Handling]({{'/images/Improper vs Proper Animations-1.gif'}})
 <br><br>
-<h3>Error Handling</h3> 
+
+### Error Handling
 <b>Provide contextual explanation with actionable recovery options, such as retry.
 <br><br>
 
 {:style="text-align:center;"}
 ![App Responsiveness image]({{'/images/Improper vs Proper Button Feedback Animation-2.gif'}})
 <br><br>
-<h3>Responsiveness</h3>
- <b>Use responsive elements for immediate visual feedback or loading indication and confirmations.</b>
+
+### Responsiveness
+<b>Use responsive elements for immediate visual feedback or loading indication and confirmations.</b>
 <br><br>
 
 {:style="text-align:center;"}
 ![Proper vs improper architechure image]({{'/images/From Tangled Monolith to Modular Architecture-3.gif'}})
 <br><br>
-<h3>Ensure proper Application architecture </h3>
+
+### Ensure proper Application architecture
 <b>Make sure the application architecture creates a seamless flow for the user. Improper architecture may cause unnecessary waiting or troubleshooting which degrades the experience for the user.
 <br><br>
 
@@ -43,14 +46,15 @@ What even is User Experience? GeekForGeeks says “User Experience is the practi
 ![Proper vs improper architechure image]({{'/images/Improper to Proper_ Smooth Mobile UX-4.gif'}})
 <br><br>
 
-<h3>Target Performance</h3> 
+### Target Performance
 <b>Your software should feel fluid, responsive, and reliable. </b>
 <br>
 
 ***
 
 <br>
-<h2>Conclusion</h2>
+
+## Conclusion
 When you are designing an application, it is easy to become hyper-focused on the technical parts of establishing an application such as writing clean code, incorporating new features, and ensuring everything operates as planned. However, an application can be technically impressive and still fail to provide a meaningful experience for its users.
 
 One would think that principles such as error handling, responsiveness, application architecture, and performance may seem like completely separate technical concerns but they all contribute to one larger image: how users perceive, trust, and interact with our software and applications.
