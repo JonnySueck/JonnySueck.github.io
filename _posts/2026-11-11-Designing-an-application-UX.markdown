@@ -12,11 +12,11 @@ When you are developing an application, the choices that you make are critical f
 
 What even is User Experience? GeekForGeeks says “User Experience is the practice of designing products and services that are useful, usable, accessible, and enjoyable.” Essentially what this means is UX focuses on the user’s experience and interactions with the software or application. When creating software, the UX creates the overall experience for the user and should be heavily considered during the development process. This not only includes ensuring that the user can properly enter information, interact with the app, and navigate between screens, but also means that we are efficiently engaging and satisfying the needs of all potential users, especially those with disabilities. 
 
-***
 
 <br>
 <b>If you are a developer and want to improve your product’s user experience, follow these visual comparisons that elaborate on principles of UX that you can use immediately.</b>
-<br> <br>
+<br>
+<br>
 
 {:style="text-align:center;"}
 ![Proper vs Improper Error Handling]({{'/images/Improper vs Proper Animations-1.gif'}})
@@ -24,7 +24,8 @@ What even is User Experience? GeekForGeeks says “User Experience is the practi
 
 ### Error Handling
 <b>Provide contextual explanation with actionable recovery options, such as retry.
-<br><br>
+<br>
+<br>
 
 {:style="text-align:center;"}
 ![App Responsiveness image]({{'/images/Improper vs Proper Button Feedback Animation-2.gif'}})
@@ -36,7 +37,8 @@ What even is User Experience? GeekForGeeks says “User Experience is the practi
 
 {:style="text-align:center;"}
 ![Proper vs improper architechure image]({{'/images/From Tangled Monolith to Modular Architecture-3.gif'}})
-<br><br>
+<br>
+<br>
 
 ### Ensure proper Application architecture
 <b>Make sure the application architecture creates a seamless flow for the user. Improper architecture may cause unnecessary waiting or troubleshooting which degrades the experience for the user.
@@ -44,14 +46,12 @@ What even is User Experience? GeekForGeeks says “User Experience is the practi
 
 {:style="text-align:center;"}
 ![Proper vs improper architechure image]({{'/images/Improper to Proper_ Smooth Mobile UX-4.gif'}})
-<br><br>
+<br>
+<br>
 
 ### Target Performance
 <b>Your software should feel fluid, responsive, and reliable. </b>
 <br>
-
-***
-
 <br>
 
 ## Conclusion
@@ -60,9 +60,8 @@ When you are designing an application, it is easy to become hyper-focused on the
 One would think that principles such as error handling, responsiveness, application architecture, and performance may seem like completely separate technical concerns but they all contribute to one larger image: how users perceive, trust, and interact with our software and applications.
 
 At the end of the day, a great user experience isn’t just about creating something that looks beautiful. The true principles of UX is about understanding the people we are building for, anticipating their needs, and removing the friction between them and their goals. Because at the end of the day, users don’t experience our code. They experience the decisions we make while writing it.
-<br> <br>
-
-***
+<br>
+<br>
 
 <br>
 Resources: 
