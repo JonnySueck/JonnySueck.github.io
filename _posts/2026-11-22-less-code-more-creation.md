@@ -15,7 +15,7 @@ Building a great mobile application often means writing a lot of code to create,
 
 For years, UIKit and Android’s traditional view system have provided powerful ways to build applications. They aren’t outdated because newer frameworks exist, and many production applications rely on them for good reasons. However developers have increasingly adopted another way of thinking about user interfaces: Declarative UI. 
 
-Instead of having to describe every single update that needs to happen on a screen, we describe what the screen should look like for its current state. Frameworks such as Apple’s UIKit and Google’s Jetpack Compose then coordinate the UI updates for us. While this difference may sound subtle, it changes how we organize screens and reuse componets. The best part about using declarative programming is that you can slowly adopt and you do not need to automatically rewrite an entire application. 
+Instead of having to describe every single update that needs to happen on a screen, we describe what the screen should look like for its current state. Frameworks such as Apple’s SwiftUI and Google’s Jetpack Compose then coordinate the UI updates for us. While this difference may sound subtle, it changes how we organize screens and reuse componets. The best part about using declarative programming is that you can slowly adopt and you do not need to automatically rewrite an entire application. 
 
 ## Imperative vs. declarative: what's the difference?
 The distinction starts with intent. 
